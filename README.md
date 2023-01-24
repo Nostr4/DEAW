@@ -4,9 +4,9 @@
 
 ### Tabla
 
-| Nombre		Github |
+| Nombre | Github |
 | ---------------------------------------------------|
-| Luis Peñalver		https://github.com/luipenrom |
-| Noelia Ruiz		https://github.com/NoeRuiTor |
-| Daniela Bru		https://github.com/denisdaw |
+| Luis Peñalver	|	https://github.com/luipenrom |
+| Noelia Ruiz	|	https://github.com/NoeRuiTor |
+| Daniela Bru	|	https://github.com/denisdaw |
 
